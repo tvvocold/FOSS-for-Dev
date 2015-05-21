@@ -5,10 +5,12 @@ Feel free to send a PR :)
 
 # Contents
    * [Source Code Repos](#source-code-repos)
+   * [IDE](#ide)
    * [Collaboration Tools](#collaboration-tools)
    * [Code Quality](#code-quality)
    * [CI / CD](#ci--cd)
    * [Security and PKI](#security-and-pki)
+   * [Bug trackers](#bug trackers)
    * [PaaS](#paas)
 
 
