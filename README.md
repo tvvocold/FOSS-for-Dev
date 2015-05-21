@@ -10,7 +10,7 @@ Feel free to send a PR :)
    * [Code Quality](#code-quality)
    * [CI / CD](#ci--cd)
    * [Security and PKI](#security-and-pki)
-   * [Bug trackers](#bug trackers)
+   * [Bug trackers](#bug-trackers)
    * [PaaS](#paas)
 
 
