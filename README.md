@@ -1,7 +1,7 @@
 # FOSS-for-Dev
 A list of Free and open-source software for developers
 
-Feel free to send a PR :) 
+Feel free to send a PR , please check the License First :)
 
 # Contents
    * [Source Code Repos](#source-code-repos)
