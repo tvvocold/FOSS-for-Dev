@@ -2,7 +2,7 @@
 A list of Free and open-source software for developers
 
  
-Feel free to send a PR , please check the License First :)
+Feel free to send a PR :)
 # Brothers
 [free for dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=27)
