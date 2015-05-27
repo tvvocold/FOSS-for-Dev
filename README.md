@@ -18,6 +18,7 @@ Feel free to send a PR :)
    * [CI / CD](#ci--cd)
    * [Security and PKI](#security-and-pki)
    * [Bug trackers](#bug-trackers)
+   * [Project management](#project-management)
    * [PaaS](#paas)
 
 
@@ -65,14 +66,19 @@ Feel free to send a PR :)
  * [OpenXPKI](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
 [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=99)
 
+
 ## Bug trackers
 
 * [Bugzilla](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
 [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=104)
-* [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
-[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=105)
 * [Mantis](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
 [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=106)
+
+
+## Project management
+* [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
+[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=105)
+
 
 ## PaaS
 
