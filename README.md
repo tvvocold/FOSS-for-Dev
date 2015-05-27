@@ -78,7 +78,10 @@ Feel free to send a PR :)
 ## Project management
 * [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
 [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=105)
-
+* [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software
+[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=109)
+* [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
+[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=110)
 
 ## PaaS
 
