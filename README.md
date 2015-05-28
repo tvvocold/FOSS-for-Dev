@@ -27,6 +27,8 @@ Feel free to send a PR :)
  * [Gogs](https://github.com/gogits/gogs)  - A painless self-hosted Git Service [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=14)
  * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server
 [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=91)
+ * [Package Drone](https://github.com/ctron/package-drone) - A package manager repository for OSGi, Java and more
+[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=113)
 
 ## IDE 
 
