@@ -52,6 +52,8 @@ Feel free to send a PR :)
 [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=96)
  * [gerrit](https://gerrit.googlesource.com/) - Code Review
 [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=97)
+ * [Codecov](https://codecov.io/) - Continuous Code Coverage
+[![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=137)
 
 ## CI / CD
 
