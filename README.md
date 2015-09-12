@@ -40,8 +40,6 @@ Feel free to send a PR :)
 
  * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool
  [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=94)
- * [teambox](https://github.com/teambox/teambox) - The award-winning collaboration solution
- [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=95)
  * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=75)
  * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=92)
