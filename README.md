@@ -44,6 +44,7 @@ Feel free to send a PR :)
  * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=75)
  * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 [![Comment-on-Github.Party](https://img.shields.io/badge/Comment%20on-Github.Party-yellow.svg)](https://github.party/item?id=92)
+ * [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
 
 ## Code Quality
 
