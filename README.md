@@ -33,6 +33,7 @@ Feel free to send a PR :)
 
 ## IDE 
 
+ * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project
  * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
 
 
