@@ -28,7 +28,7 @@ Feel free to send a PR :)
 
  * [Gogs](https://github.com/gogits/gogs)  - A painless self-hosted Git Service 
  * [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server
- * [Package Drone](https://github.com/ctron/package-drone) - A package manager repository for OSGi, Java and more
+ * [Package Drone](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more
 
 
 ## IDE 
