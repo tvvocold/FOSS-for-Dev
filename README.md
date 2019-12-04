@@ -39,6 +39,7 @@ Feel free to send a PR :)
 
 ## Collaboration Tools
 
+ * [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...).
  * [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool
  * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH 
  * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
