@@ -57,7 +57,9 @@ Feel free to send a PR :)
  * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server
  * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects
  * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration 
-
+ 
+## Feature management
+ * [Unleash](https://github.com/Unleash/unleash) - Free open-source featrue flag & toggle service. SDKs for all major languages.
 
 ## Security and PKI
 
