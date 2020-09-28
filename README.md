@@ -60,7 +60,7 @@ Feel free to send a PR :)
  * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration 
  
 ## Feature management
- * [Unleash](https://github.com/Unleash/unleash) - Free open-source featrue flag & toggle service. SDKs for all major languages.
+ * [Unleash](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
 
 ## Security and PKI
 
