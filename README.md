@@ -21,6 +21,7 @@ Feel free to send a PR :)
    * [Bug trackers](#bug-trackers)
    * [Project management](#project-management)
    * [PaaS](#paas)
+   * [Documentation](#documentation)
    * [ADN(Application Delivery Networking)](#adn)
 
 
@@ -82,6 +83,10 @@ Feel free to send a PR :)
 ## PaaS
 
  * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
+
+## Documentation
+
+ * [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website
 
 ## ADN 
   
