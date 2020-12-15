@@ -37,6 +37,7 @@ Feel free to send a PR :)
  * [Visual Studio Code](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
  * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project
  * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
+ * [Brackets](https://github.com/adobe/brackets) -  A modern and open-source code editor for HTML, CSS and JavaScript.
 
 
 ## Collaboration Tools
