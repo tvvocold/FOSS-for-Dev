@@ -35,6 +35,7 @@ Feel free to send a PR :)
 ## IDE 
  * [Atom](https://github.com/atom/atom) - Opensource,fully-featured,hackable text editor for coding.
  * [Visual Studio Code](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
+ * [VsCodium](https://vscodium.com/) - Fully FOSS alternative to vscode
  * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project
  * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
  * [Brackets](https://github.com/adobe/brackets) -  A modern and open-source code editor for HTML, CSS and JavaScript.
@@ -60,6 +61,8 @@ Feel free to send a PR :)
  * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server
  * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects
  * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration 
+ * [drone.io](https://drone.io) - Open Source CI platform
+ * [Gitlab CI](https://docs.gitlab.com/ee/ci/) - Gitlab Ci
  
 ## Feature management
  * [Unleash](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
@@ -89,6 +92,19 @@ Feel free to send a PR :)
 
  * [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website
 
-## ADN 
-  
- 
+## Backend
+
+* [Okteto](https://www.okteto.com/) - Kubernetes and Docker Compose Platform
+* [Dokku](https://dokku.com/) - Heroku like environment 
+
+## Chat and Community
+
+* [Matrix](https://matrix.org) - Decentrialized End-to-End Encrypted Chat platform (you may want to use [Element](https://element.io/)
+* [Discourse](https://discourse.org) - Community forum
+* [Flarum](https://flarum.org) - Community Forum (PHP based)
+
+## Mail server
+
+* [Mailcow Email Server](https://mailcow.email/) - Fully feature email server (for avarage use cases @lmtr0 recommends this one)
+* [WildDuck Email Server](https://wildduck.email/) - nodejs application to send emails (built for sclae (needs more hand work to make it work)
+
