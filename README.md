@@ -78,6 +78,7 @@ Feel free to send a PR :)
 * [Bugzilla](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
 * [Mantis](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
 * [Trac](https://github.com/edgewall/trac) - IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.
+* [Open Project](https://www.openproject.org) - Project management platform (has features like jira and confluence)
 
 ## Project management
 * [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
