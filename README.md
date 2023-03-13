@@ -40,6 +40,11 @@ Feel free to send a PR :)
  * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
  * [Brackets](https://github.com/adobe/brackets) -  A modern and open-source code editor for HTML, CSS and JavaScript.
 
+## File Management
+ * [Bat](https://github.com/sharkdp/bat) - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
+ * [Clifm](https://github.com/leo-arch/clifm) - The terminal is always in your reach when managing your files.
+ * [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
+ * [fzf](https://github.com/junegunn/fzf) - Fuzzy find anything in your directories.
 
 ## Collaboration Tools
 
