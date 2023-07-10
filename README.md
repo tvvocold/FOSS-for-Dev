@@ -101,7 +101,8 @@ Feel free to send a PR :)
 ## Backend
 
 * [Okteto](https://www.okteto.com/) - Kubernetes and Docker Compose Platform
-* [Dokku](https://dokku.com/) - Heroku like environment 
+* [Dokku](https://dokku.com/) - Heroku like environment
+* [OpenMeter](https://openmeter.io/) - Open-Source Metering for AI, Billing, and Infrastructure
 
 ## Chat and Community
 
