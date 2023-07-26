@@ -112,5 +112,5 @@ Feel free to send a PR :)
 ## Mail server
 
 * [Mailcow Email Server](https://mailcow.email/) - Fully feature email server (for avarage use cases @lmtr0 recommends this one)
-* [WildDuck Email Server](https://wildduck.email/) - nodejs application to send emails (built for sclae (needs more hand work to make it work)
+* [WildDuck Email Server](https://wildduck.email/) - nodejs application to send emails (built for scale (needs more hand work to make it work)
 
