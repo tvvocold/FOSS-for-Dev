@@ -93,6 +93,7 @@ Feel free to send a PR :)
 ## PaaS
 
  * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
+ * [Zeabur](https://zeabur.com) - deploy your full stack apps and databases with one click
 
 ## Documentation
 
