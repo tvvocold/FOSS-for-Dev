@@ -79,7 +79,7 @@ Feel free to send a PR :)
 
  * [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
  * [OpenXPKI](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
-
+ * [Selefra](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
 ## Bug trackers
 
