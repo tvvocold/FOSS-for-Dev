@@ -121,4 +121,5 @@ Feel free to send a PR :)
 * [WildDuck Email Server](https://wildduck.email/) - nodejs application to send emails (built for scale (needs more hand work to make it work)
 
 ## Environment Manager Tools
+* [Daytona](https://daytona.io) - The Open Source Dev Environment Manager.
 * [DEM](https://axemsolutions.io/dem_doc/index.html) - DEM (Development Environment Manager) is an open source command line tool to manage containerized Development Environments.
