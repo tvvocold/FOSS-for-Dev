@@ -56,6 +56,7 @@ Feel free to send a PR :)
  * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
  * [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
  * [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform
+ * [KitOps](kitops.ml) - Ease model handoffs between data scientists and DevOps teams
 
 ## Code Quality
 
