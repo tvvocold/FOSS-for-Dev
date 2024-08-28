@@ -14,6 +14,7 @@ Feel free to send a PR :)
 # Contents
    * [Source Code Repos](#source-code-repos)
    * [IDE](#ide)
+   * [ML Ops](#ml-ops)
    * [Collaboration Tools](#collaboration-tools)
    * [Code Quality](#code-quality)
    * [CI / CD](#ci--cd)
@@ -41,6 +42,11 @@ Feel free to send a PR :)
  * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project
  * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
  * [Brackets](https://github.com/adobe/brackets) -  A modern and open-source code editor for HTML, CSS and JavaScript.
+
+
+## ML Ops
+ * [Helicone](https://github.com/Helicone/helicone) - Open-source LLM Observability platform for developers, for logging, debugging and improving LLM apps.
+
 
 ## File Management
  * [Bat](https://github.com/sharkdp/bat) - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
