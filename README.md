@@ -62,6 +62,7 @@ Feel free to send a PR :)
  * [sonarqube](https://github.com/SonarSource/sonarqube) - Put your technical debt under control
  * [gerrit](https://gerrit.googlesource.com/) - Code Review
  * [Codecov](https://codecov.io/) - Continuous Code Coverage
+ * [Ultracite](https://www.ultracite.ai) — Zero-config Biome preset for fast, automated code formatting and linting for JavaScript apps
 
 
 ## CI / CD
