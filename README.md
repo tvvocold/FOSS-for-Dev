@@ -47,6 +47,7 @@ Feel free to send a PR :)
  * [Clifm](https://github.com/leo-arch/clifm) - The terminal is always in your reach when managing your files.
  * [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
  * [fzf](https://github.com/junegunn/fzf) - Fuzzy find anything in your directories.
+ * [Glim](https://github.com/NeoPanic/Glim) - MIT-licensed macOS file viewer for Markdown, source code, JSON and CSV, with read-only PDF/Office previews and basic UTF-8 text editing.
 
 ## Collaboration Tools
 
